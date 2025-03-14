@@ -10,5 +10,5 @@ cd Lesson_Of_Faith
 
 sudo chmod +x 101.py
 
-sudo python 101.py
+sudo python3 101.py
 ```
